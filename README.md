@@ -19,3 +19,8 @@
 <p align="left">
   🛠️ Minhas ferramentas são o <strong>Android Studio, Figma, Git</strong> e <strong>VSCode</strong>
 </p>
+
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabejnunes&show_icons=true&count_private=true&title_color=DAA520" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabejnunes&title_color=DAA520" width="200"></a>
+</p>
