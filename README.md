@@ -21,5 +21,5 @@
 </p>
 
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabejnunes&show_icons=true&count_private=true&title_color=DAA520" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabejnunes&show_icons=true&count_private=true&theme=graywhite" width="350"></a>
 </p>
