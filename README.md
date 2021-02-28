@@ -1,6 +1,8 @@
-<p align="left">
+<img src="https://github.com/gabejnunes/gabejnunes/raw/main/cat.gif" min-width="400px" max-width="300px" width="300px" align="right" alt="Gato digitando num teclado">
+
+<h2 align="left">
   <strong>Oi, meu nome é Gabriel! 🌻</strong>
-</p>
+</h2>
 
 <p align="left">
   🎓 Estudando Ciência e Tecnologia na <strong>Universidade Federal do ABC</strong>
